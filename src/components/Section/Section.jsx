@@ -17,4 +17,4 @@ Section.propTypes = {
   children: PropTypes.element.isRequired,
 };
 
-export default Section
+export default Section;
