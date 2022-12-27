@@ -8,5 +8,5 @@ export const ComSection = styled.div`
 `;
 
 export const Title = styled.h2`
-  font-size: 30px;
+  font-size: 20px;
 `;
